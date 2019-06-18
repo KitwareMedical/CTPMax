@@ -7,4 +7,6 @@ Terminal commands do not handle spaces as part of the same file name, so NameCha
 
 The masks used in PixelMax.ipynb were created using ITKTubeTK using ImageMath.
 
-The datasets used in this project are available at data.kitware.com.
+If no registration appears to be needed, PixelMaxNoRegistration.ipynb can be used, working much faster than PixelMax.ipynb, but registration is always a good idea for more accurate answers.
+
+The datasets used in this project are available at https://data.kitware.com/#collection/560022808d777f6ddc3da1ea/folder/560022808d777f6ddc3da1eb
