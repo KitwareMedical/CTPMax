@@ -1,5 +1,5 @@
 # CTPMax
-Repository for Registration and making of composites of .nrrd CTA and CTP files.
+Repository for Registration and making of composites of CTA and CTP .nrrd files.
 
 PixelMax.ipynb is made in Linux using ITK. The registration of files is done using terminal commands with ITKTubeTK Registration through Jupyter Notebook.
 
